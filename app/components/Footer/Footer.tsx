@@ -26,6 +26,9 @@ export default function Footer() {
 
           </div>
 
+
+          
+
           {/* Middle */}
           <div>
             <h4 className="text-white text-lg mb-6">Home</h4>
